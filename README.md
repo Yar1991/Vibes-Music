@@ -5,8 +5,8 @@ Deployed on Heroku. Check [here](https://vibes-music-player.herokuapp.com/).
 
 ## Technologies:
 
-- Javascript
-  - React
-    - styled-components
-  - Node.js
-    - Express
+
+- React
+  - styled-components
+- Node.js
+  - Express
